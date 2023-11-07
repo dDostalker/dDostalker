@@ -12,9 +12,20 @@
 ![Visitor Count](https://profile-counter.glitch.me/dDostalker/count.svg)
 **位相剑门传人**
 
-# 个人简介
+# 能力展示
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dDostalker&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dDostalker&theme=dark)](https://github.com/dDostalker/github-readme-stats)
+
+<img src="https://skillicons.dev/icons?i=ps,c,cpp,cs,ts,discord,twitter,vscode,git,github" /><br>
+
+
+<div/>
+
 
 <table>
+
 <tr><td>
   <img align="right" width="88" src="https://github.com/dDostalker/pictures/blob/main/myself.jpg" />
 <p>&emsp;&emsp;名称：dDostalker、infernoid、觌蕤</p>
@@ -31,11 +42,7 @@
   
 
 ## 灵气活跃程度
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=dDostalker&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDostalker&theme=dark" /> </div>
 <td><img src="https://github.com/dDostalker/pictures/blob/main/jiandou.webp" alt="剑斗.webp"/></td>
 
 
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dDostalker&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dDostalker&theme=dark)](https://github.com/dDostalker/github-readme-stats)
