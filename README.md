@@ -1,53 +1,4 @@
-<!-- 赛博朋克风格CSS -->
-<style>
-  @keyframes neon-glow {
-    0%, 100% { text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff; }
-    50% { text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff; }
-  }
-  
-  @keyframes cyber-pulse {
-    0%, 100% { box-shadow: 0 0 20px rgba(0, 255, 255, 0.5), 0 0 40px rgba(255, 0, 255, 0.3); }
-    50% { box-shadow: 0 0 30px rgba(0, 255, 255, 0.8), 0 0 60px rgba(255, 0, 255, 0.5); }
-  }
-  
-  @keyframes matrix-rain {
-    0% { transform: translateY(-100%); opacity: 0; }
-    50% { opacity: 1; }
-    100% { transform: translateY(100vh); opacity: 0; }
-  }
-  
-  .cyber-container {
-    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
-    color: #00ffff;
-    font-family: 'Courier New', monospace;
-  }
-  
-  .neon-text {
-    animation: neon-glow 2s ease-in-out infinite alternate;
-    color: #00ffff;
-    font-weight: bold;
-  }
-  
-  .cyber-card {
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.8) 0%, rgba(26, 26, 46, 0.9) 100%);
-    border: 2px solid #00ffff;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
-    animation: cyber-pulse 3s ease-in-out infinite;
-  }
-  
-  .cyber-gradient {
-    background: linear-gradient(135deg, #ff0080 0%, #00ffff 50%, #ff0080 100%);
-    background-size: 200% 200%;
-    animation: gradient-shift 4s ease infinite;
-  }
-  
-  @keyframes gradient-shift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
+
 
 <div class="cyber-container" align="center">
   
@@ -71,16 +22,9 @@
 
   <!-- 技术标签 - 赛博朋克风格 -->
   <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/C++-CYBER%20CORE-00ffff?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++"/>
+    <img src="https://img.shields.io/badge/Rust-CYBER%20CORE-00ffff?style=for-the-badge&logo=rusts&logoColor=black" alt="rust"/>
     <img src="https://img.shields.io/badge/PYTHON-NEURAL%20NET-ff0080?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/REVERSE%20ENGINEERING-HACKER%20MODE-ff0080?style=for-the-badge" alt="逆向"/>
-  </div>
-
-  <!-- 访问者计数 - 赛博朋克风格 -->
-  <div class="cyber-card" style="padding: 20px; margin: 20px 0; max-width: 400px;">
-    <h3 class="neon-text" style="margin: 0; font-size: 1.2em;">SYSTEM ACCESS #</h3>
-    <img src="https://profile-counter.glitch.me/dDostalker/count.svg" alt="Visitor Count" style="height: 50px; filter: hue-rotate(180deg) brightness(1.5);"/>
-    <h3 class="neon-text" style="margin: 0; font-size: 1.2em;">CYBER WARRIOR</h3>
   </div>
 
 </div>
@@ -130,10 +74,6 @@
       </div>
     </div>
     
-    <div class="cyber-gradient" style="padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #00ffff;">
-      <p style="margin: 0; color: white; font-weight: bold; font-size: 18px; text-shadow: 0 0 10px rgba(0,0,0,0.8);">MISSION OBJECTIVE:</p>
-      <p style="margin: 5px 0; color: white; font-weight: bold; font-size: 20px; text-shadow: 0 0 10px rgba(0,0,0,0.8);">TECH EXCHANGE • SELF BREAKTHROUGH • PEAK EXCELLENCE</p>
-    </div>
   </div>
 
   <div class="cyber-card" style="padding: 10px;">
@@ -157,7 +97,6 @@
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dDostalker&theme=vue&hide_border=true&bg_color=0a0a0a&color=00ffff&line=ff0080&point=00ffff&area=true&area_color=ff0080&area_opacity=0.3" alt="Activity Graph" style="border-radius: 15px; max-width: 100%;"/>
     <div class="cyber-card" style="padding: 10px;">
-      <img src="https://github.com/dDostalker/pictures/blob/main/jiandou.webp" alt="剑斗.webp" style="width: 200px; border-radius: 15px; filter: hue-rotate(180deg) brightness(1.2) contrast(1.3);"/>
     </div>
   </div>
 
