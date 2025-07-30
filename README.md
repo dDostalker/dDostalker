@@ -51,7 +51,7 @@
 <div style="text-align: center; margin: 30px 0;">
   <h3 class="neon-text" style="margin-bottom: 20px; font-size: 1.5em;">🔧 CYBER TECH STACK 🔧</h3>
   <div class="cyber-card" style="display: inline-block; padding: 15px;">
-    <img src="https://skillicons.dev/icons?i=ps,c,cpp,cs,ts,discord,twitter,vscode,git,github&perline=5" style="border-radius: 10px; filter: hue-rotate(180deg) brightness(1.2);"/>
+    <img src="https://skillicons.dev/icons?i=c,ts,python,rust,ps,discord,twitter,vscode,git,github&perline=5" style="border-radius: 10px; filter: hue-rotate(180deg) brightness(1.2);"/>
   </div>
 </div>
 
