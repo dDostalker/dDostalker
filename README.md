@@ -69,8 +69,9 @@
       </div>
       <div>
         <h3 class="neon-text" style="margin: 0; font-size: 1.3em;">CODENAME: dDostalker / infernoid / 觌蕤</h3>
-        <p style="margin: 5px 0; color: #00ffff; font-family: 'Courier New', monospace;">📍 NETWORK NODES: GitHub, 知乎, b站, csdn</p>
-        <p style="margin: 5px 0; color: #00ffff; font-family: 'Courier New', monospace;">🌐 DARK WEB: Overflowr, 电报, 推特</p>
+        <p style="margin: 5px 0; color: #00ffff; font-family: 'Courier New', monospace;">📍 NETWORK NODES: GitHub, bilibili, reddit</p>
+        <p style="margin: 5px 0; color: #00ffff; font-family: 'Courier New', monospace;">🌐 WEB: Stack Overflowr, X</p>
+        <p style="margin: 5px 0; color: #00ffff; font-family: 'Courier New', monospace;">🌐 MyBlog: dDostalker.github.io</p>
       </div>
     </div>
     
