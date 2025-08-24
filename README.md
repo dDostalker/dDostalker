@@ -94,6 +94,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDostalker&theme=dark&hide_border=true&background=0a0a0a&stroke=00ffff&ring=ff0080&fire=ff0080&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=ff0080" alt="GitHub Streak" style="border-radius: 15px;"/>
   </div>
 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
   <!-- 活动图表 - 赛博朋克主题 -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dDostalker&theme=vue&hide_border=true&bg_color=0a0a0a&color=00ffff&line=ff0080&point=00ffff&area=true&area_color=ff0080&area_opacity=0.3" alt="Activity Graph" style="border-radius: 15px; max-width: 100%;"/>
