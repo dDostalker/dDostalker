@@ -36,9 +36,9 @@
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   
   <!-- GitHub统计卡片 - 赛博朋克主题 -->
-  <div class="cyber-card" style="flex: 1; min-width: 300px; padding: 15px;">
+  <!-- <div class="cyber-card" style="flex: 1; min-width: 300px; padding: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=dDostalker&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=00ffff&icon_color=ff0080&border_color=00ffff" alt="GitHub Stats" style="width: 100%; border-radius: 10px;"/>
-  </div>
+  </div> -->
 
   <!-- 语言统计 - 赛博朋克主题 -->
   <div class="cyber-card" style="flex: 1; min-width: 300px; padding: 15px;">
