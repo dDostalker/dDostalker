@@ -30,8 +30,10 @@
 </div>
 
 ---
-
-## ⚡ CYBER CAPABILITIES ⚡
+<div class="cyber-container" align="center">
+   <h2 class="neon-text" style="font-size: 2.5em; margin: 0; text-transform: uppercase; letter-spacing: 3px;">
+      ⚡ CYBER CAPABILITIES ⚡
+    </h2>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   
@@ -42,7 +44,7 @@
 
   <!-- 语言统计 - 赛博朋克主题 -->
   <div class="cyber-card" style="flex: 1; min-width: 300px; padding: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dDostalker&theme=dark&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=00ffff&border_color=00ffff" alt="Top Languages" style="width: 100%; border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dDostalker&theme=dark&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=00ffff&border_color=00ffff&hide=html" alt="Top Languages" style="width: 50%; border-radius: 10px;"/>
   </div>
 
 </div>
@@ -55,9 +57,12 @@
   </div>
 </div>
 
----
+</div>
 
-## 👨‍💻 CYBER PROFILE
+<div class="cyber-container" align="center">
+  <h2 class="neon-text" style="font-size: 2.5em; margin: 0; text-transform: uppercase; letter-spacing: 3px;">
+      👨‍💻 CYBER PROFILE
+    </h2>
 
 <div class="cyber-card" style="display: flex; align-items: center; gap: 30px; padding: 25px; margin: 30px 0;">
 
@@ -82,10 +87,13 @@
   </div>
 
 </div>
+</div>
 
----
+<div class="cyber-container" align="center">
+  <h2 class="neon-text" style="font-size: 2.5em; margin: 0; text-transform: uppercase; letter-spacing: 3px;">
+      👨‍💻 CYBER PROFILE
+    </h2>
 
-## 📊 CYBER ACTIVITY MATRIX
 
 <div style="text-align: center; margin: 30px 0;">
   
@@ -112,3 +120,4 @@
   <p style="margin: 0; font-size: 20px; font-weight: bold; text-shadow: 0 0 10px rgba(0,0,0,0.8);">⚡ THANKS FOR ACCESSING MY CYBER PROFILE ⚡</p>
   <p style="margin: 5px 0; font-size: 16px; text-shadow: 0 0 10px rgba(0,0,0,0.8);">LET'S FORGE THE FUTURE TOGETHER IN THE DIGITAL REALM!</p>
 </div> 
+</div>
