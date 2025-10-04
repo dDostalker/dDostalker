@@ -44,7 +44,7 @@
 
   <!-- 语言统计 - 赛博朋克主题 -->
   <div class="cyber-card" style="flex: 1; min-width: 300px; padding: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dDostalker&theme=dark&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=00ffff&border_color=00ffff&hide=html" alt="Top Languages" style="width: 50%; border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dDostalker&theme=dark&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=00ffff&border_color=00ffff&hide=html,css,javascript" alt="Top Languages" style="width: 50%; border-radius: 10px;"/>
   </div>
 
 </div>
